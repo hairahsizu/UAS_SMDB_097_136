@@ -1,0 +1,114 @@
+    body {
+        background-image: url('assets/btsback.jpg');
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        color: white;
+        text-overflow:inherit;
+    }
+    h3 {
+    	text-align: center;
+    	color: white;
+
+    }
+    h4 {
+    	text-align: center;
+    	color:white;
+    	font-family: sans-serif;
+    }
+    p {
+    	font-weight:bold;
+    	color: white;
+    	font-family:italic;
+    }
+    h5 {
+    	font-weight:bold;
+    	text-align:center;
+    	color:black;
+    	font-size: 15px;
+    	font-family: sans-serif;
+    }
+    header {
+    	opacity:0.6;
+    	border-radius:0px 0px 5px 5px;
+    	object-position: top !important;
+    }
+    footer{
+    	font-family:Georgia,serif;
+    	object-position: fixed bottom;
+    	text-align: center;
+        opacity:0.8;
+    }
+    button {
+    	border-radius:5px 5px 5px 5px;
+        font-family:"Comic Sans MS",cursive,sans-serif;
+    }
+    p{
+    	color:black;
+    }   
+    .member .kotak {
+        margin-top: 40px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        width: 250px;
+        border-radius: 20px;
+        background-color: rgb(189, 186, 186);
+        padding: 25px;
+    }
+    .member .kotak .col-sm .namaMember  {
+        font-size: 18px;
+        font-weight: 500;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .member .kotak .col-sm .namaMember a:hover {
+        font-weight: bold;
+        text-decoration: none;
+    }
+    .member .kotak .col-sm a img {
+        width: 85%;
+        border-radius: 10px;
+        max-height: 300px;
+        object-fit: cover;
+        object-position: center;   
+        text-align: center; font-weight: 500;
+    }
+    .badge {
+       	background-color: white !important;
+    	opacity: 0.6;
+    }
+    .explain{
+    	color:black;
+    	font-size: 15px;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+    }
+    .brand {
+    	color:grey;
+    	border-radius:0px 0px 0px 0px;
+    }
+    .container {
+    	background: #fcfcfc;
+    	opacity: 0.6;
+    	padding : 20px;
+    	object-position: center;
+    	text-align: center;
+    	border-radius:10px 10px 10px 10px;
+    }
+    .containera {
+        background: #afaeae;
+    	padding : 20px;
+    	object-position: center;
+    	box-align: center;
+        max-width: 1140px;
+    	border-radius:10px 10px 10px 10px;
+    }
+    .about {
+    	color: black;
+    	font-family:segoe;
+        font-style: italic;
+        text-align: center;
+        font-size: 16px;
+        font-weight: 1000;
+    }
+    #potobts {
+        margin:20px 20px 20px 20px;
+    }
